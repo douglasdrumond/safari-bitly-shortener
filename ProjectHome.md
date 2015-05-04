@@ -1,0 +1,1 @@
+An initial approximation to a useful Safari 5 extension. A bit.ly URL shortening button.
